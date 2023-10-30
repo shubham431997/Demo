@@ -1,0 +1,17 @@
+.App {
+    text-align: center;
+  }
+  
+  .brand-name{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Righteous', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-size: 28px;
+  }
+  
+  .banner{
+    background-image: url(./ten.jpg);
+    margin-top: 0px;
+    height: 80vh;
+    opacity: 0.80;
+  }
